@@ -20,6 +20,10 @@ This repository contains an FME Workbench (.fmw) that demonstrates integration b
 - AGOL account with hosted feature layers
 - Access to a PostGIS-enabled PostgreSQL database
 
+## Screenshot
+
+![Main Page Screenshot](https://github.com/eelmido13/ArcGIS-and-PostGIS-Data-Integration/blob/main/Workbench.png)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
@@ -27,4 +31,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Contact
 
 For questions or support, open an issue or contact the repository owner.
+
 
